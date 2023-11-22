@@ -4,5 +4,5 @@ Foi desenvolvido um sistema para controle financeiro que recebe as movimentaçõ
 Projeto desenvolvido por:
 Aline Emanuela,
 Gabriel Oliveira,
-Gutembergue Aquino,
+Gutembergue Aquino e
 Maria Moro
